@@ -29,7 +29,7 @@ Submission - Belajar membuat aplikasi android untuk pemula dicoding
 ## Installation
 Clone this repository and import into Android Studio
 ```
-https://github.com/rizalfahrudin879/Dicoding-Submission-Android-Pemula.git
+https://github.com/apursan/Dicoding-Submission-Android-Pemula.git
 ```
 ## Author
 * #### Angger Pursan Pratama
