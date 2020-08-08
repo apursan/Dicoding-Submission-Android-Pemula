@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dicoding</string>
+
+    <string name="profile">Profile</string>
+
+    <string name="my_name">Angger Pursan Pratama</string>
+    <string name="my_email">official.apursan@gmail.com</string>
+
+    <string name="academy_name">Nama Academy</string>
+    <string name="academy_rate">Rate Academy</string>
+    <string name="academy_detail">Detail Academy</string>
+    <string name="academy_overview">Deskripsi</string>
+
+    <string name="title_detail">Disusun oleh \nLevel \nTeknologi \nEstimasi \nWebsite \n \nModul </string>
+    <string name="title_about_detail">Contact Person \n  \nTwitter \nInstagram \nLinkedIn \n \nDicoding \n </string>
+    <string name="about_detail">\n \n@apursan \n@a_pursan \nhttps://www.linkedin.com/in/angger-pursan-04458714b/  \nhttps://www.dicoding.com/users/974811 </string>
+    <string name="content_overview">Content Overview</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
