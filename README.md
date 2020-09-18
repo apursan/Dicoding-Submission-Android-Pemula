@@ -2,7 +2,7 @@
 Submission - Belajar membuat aplikasi android untuk pemula dicoding
 
 # Read This
-Project aplikasi ini hanya untuk submission kelas Android Pemula Dicoding, segala bentuk plagiarisme akan otomaatis terdeteksi jika menggunakan project aplikasi ini untuk submission. Diharapkan project ini digunakan sebagai referensi belajar dan bukan untuk copy-paste project submission!!!
+Project aplikasi ini hanya untuk submission kelas Android Pemula Dicoding, segala bentuk plagiarisme akan otomatis terdeteksi jika menggunakan project aplikasi ini untuk submission. Diharapkan project ini digunakan sebagai referensi belajar dan bukan untuk copy-paste project submission!!!
 
 # Screenshot
 <img src="https://user-images.githubusercontent.com/41522863/89706120-04101380-d98d-11ea-8fd3-338e272affb0.jpg"
